@@ -1,0 +1,3 @@
+st_id;st_home;st_desc;st_status;st_status_date;st_slave;st_IP;st_master;st_dynDns;st_listen_udp;st_listen_tcp;st_toBeDisplay;st_ind_toDisplay;st_ind_lblToDisplay;st_mesurment_toDisplay;st_mesurment_lblToDisplay;st_category;st_crc;st_listen_udp2
+1;YourHome;Thermostat;1;;S;192.168.1.xx;2;;8888;;1;4;;;;;8;
+2;YourHome;Thermostat;255;;M;192.168.1.yy ;NULL;;1840;;0;;;;;;;1841
